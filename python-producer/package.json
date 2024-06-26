@@ -1,0 +1,15 @@
+{
+  "name": "python-producer",
+  "version": "1.0.0",
+  "main": "main-avro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "avsc": "^5.7.7",
+    "node-rdkafka": "^3.0.1"
+  }
+}
